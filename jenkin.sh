@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello jenkins"
+echo "hello jenkins from git"
